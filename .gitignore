@@ -1,5 +1,5 @@
 .DS_Store
-.gif
+*.gif
 # Log Files
 logs/
 
