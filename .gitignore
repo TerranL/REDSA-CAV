@@ -1,0 +1,27 @@
+# Log Files
+logs/
+
+# Pipenv
+Pipfile
+*.lock
+
+#Raw Kitti Data
+sample_datasets/0001
+sample_datasets/0017
+sample_datasets/0005/image_00/
+sample_datasets/0005/image_01/
+sample_datasets/0005/image_02/
+sample_datasets/0005/image_03/
+sample_datasets/0005/oxts/
+
+#imgs
+imgs/ora_att/
+imgs/spoofing_att/
+imgs/Screenshot 2022-08-19 at 8.22.06 pm.png
+imgs/Screenshot 2022-08-19 at 8.25.54 pm.png
+imgs/Screenshot 2022-08-19 at 8.30.38 pm.png
+imgs/Screenshot 2022-08-19 at 8.31.36 pm.png
+imgs/Screenshot 2022-08-22 at 10.02.19 pm.png
+
+# Tex Files
+report/
